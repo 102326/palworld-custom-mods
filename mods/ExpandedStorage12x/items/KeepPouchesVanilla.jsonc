@@ -1,0 +1,7 @@
+{
+  // Keep pouch bonuses vanilla; InventoryExpansion supplies the separate +100 slots.
+  "AdditionalInventory_001": { "FloatValue1": 3.0 },
+  "AdditionalInventory_002": { "FloatValue1": 3.0 },
+  "AdditionalInventory_003": { "FloatValue1": 3.0 },
+  "AdditionalInventory_004": { "FloatValue1": 3.0 }
+}

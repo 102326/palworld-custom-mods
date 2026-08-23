@@ -1,0 +1,18 @@
+* text=auto
+*.pak binary
+*.uasset binary
+*.ucas binary
+*.utoc binary
+*.dll binary
+*.png binary
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.gitmodules text eol=lf
+SHA256SUMS.txt text eol=lf
+*.lua text eol=lf
+*.json text eol=lf
+*.jsonc text eol=lf
+*.md text eol=lf
+*.ini text eol=lf
+*.cs text eol=lf
+*.csproj text eol=lf

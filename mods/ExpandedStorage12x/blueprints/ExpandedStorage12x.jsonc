@@ -1,0 +1,44 @@
+{
+  // Comprehensive storage expansion: vanilla slot counts x12.
+  "BP_BuildObject_ItemChest_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_ItemChest_02_C": { "PalMapObjectItemChestParameter": { "SlotNum": 288 } },
+  "BP_BuildObject_ItemChest_03_C": { "PalMapObjectItemChestParameter": { "SlotNum": 480 } },
+  "BP_BuildObject_ItemChest_04_C": { "PalMapObjectItemChestParameter": { "SlotNum": 648 } },
+  "BP_BuildObject_CoolerBox_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_Refrigerator_C": { "PalMapObjectItemChestParameter": { "SlotNum": 300 } },
+  "BP_BuildObject_Barrel_Wood_C": { "PalMapObjectItemChestParameter": { "SlotNum": 96 } },
+  "BP_BuildObject_Box_Wood_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_Box01_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_Box02_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_Container01_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 480 } },
+  "BP_BuildObject_Shelf_Cask_Wood_C": { "PalMapObjectItemChestParameter": { "SlotNum": 180 } },
+  "BP_BuildObject_Shelf_Hang01_Wood_C": { "PalMapObjectItemChestParameter": { "SlotNum": 24 } },
+  "BP_BuildObject_Shelf_Wood_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_Shelf01_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 180 } },
+  "BP_BuildObject_Shelf01_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_Shelf01_Wall_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 36 } },
+  "BP_BuildObject_Shelf01_Wall_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 36 } },
+  "BP_BuildObject_Shelf02_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 180 } },
+  "BP_BuildObject_Shelf02_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 240 } },
+  "BP_BuildObject_Shelf03_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 240 } },
+  "BP_BuildObject_Shelf03_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_Shelf04_Iron_C": { "PalMapObjectItemChestParameter": { "SlotNum": 240 } },
+  "BP_BuildObject_Shelf04_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 84 } },
+  "BP_BuildObject_Shelf05_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 144 } },
+  "BP_BuildObject_Shelf06_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 180 } },
+  "BP_BuildObject_Shelf07_Stone_C": { "PalMapObjectItemChestParameter": { "SlotNum": 180 } },
+  "BP_BuildObject_Tansu_C": { "PalMapObjectItemChestParameter": { "SlotNum": 120 } },
+  "BP_BuildObject_PalFoodBox_C": { "FoodBoxParameter": { "SlotNum": 72 } },
+  "BP_BuildObject_PalFoodBoxCool_C": { "FoodBoxParameter": { "SlotNum": 360 } },
+  "BP_BuildObject_PalMedicineBox_C": { "MedicineBoxParameter": { "SlotNum": 72 } },
+  "BP_BuildObject_FishingPond01_C": {
+    "FishPondParameter": { "ItemChestSlotNum": 240, "StoreCharacterMaxNum": 10 }
+  },
+  "BP_BuildObject_FishingPond02_C": {
+    "FishPondParameter": { "ItemChestSlotNum": 240, "StoreCharacterMaxNum": 10 }
+  },
+  "BP_BuildObject_DismantlingConveyor_C": {
+    "ConvertCharacterToItemParameter": { "ContainerSlotNum": 120 }
+  },
+  "BP_PalGameSetting_C": { "GuildChestSlotNum": 648 }
+}

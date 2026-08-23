@@ -1,0 +1,18 @@
+# Local build output
+bin/
+obj/
+.vs/
+
+# Game/runtime data
+Saved/
+Crashes/
+Logs/
+*.sav
+*.log
+capacity_state.ini
+
+# Local archives and backups
+*.zip
+*.rar
+*-backup-*/
+backup/

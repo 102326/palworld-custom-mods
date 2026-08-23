@@ -1,0 +1,1438 @@
+{
+    "DT_PalDropItem": {
+        "BadCatgirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlueberryFairy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BrownRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ElecLion000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GoldenHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "TentacleTurtle000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "TentacleTurtle_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BeardedDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Anubis000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Baphomet000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Baphomet_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Bastet000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Bastet_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Boar000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Carbunclo000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ColorfulBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Deer000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Deer_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Eagle000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ElecPanda000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Ganesha000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Garm000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Gorilla000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Gorilla_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Hedgehog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Hedgehog_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Kirin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Kitsunebi000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LittleBriarRose000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Mutant000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Penguin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Penguin_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RaijinDaughter000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SharkKid000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SharkKid_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SheepBall000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Umihebi000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Umihebi_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Werewolf000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WindChimes000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WindChimes_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Suzaku000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Suzaku_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FireKirin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FireKirin_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FairyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FairyDragon_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SweetsSheep000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WhiteTiger000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Alpaca000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Serpent000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Serpent_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "DarkCrow000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlueDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlueDragon_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PinkCat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "NegativeKoala000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FengyunDeeper000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "VolcanicMonster000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "VolcanicMonster_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GhostBeast000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RobinHood000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RobinHood_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LazyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LazyDragon_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "AmaterasuWolf000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LizardMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LizardMan_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BluePlatypus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BluePlatypus_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlackFurDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BirdDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BirdDragon_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ChickenPal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlowerDinosaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlowerDinosaur_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ElecCat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceHorse_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GrassMammoth000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GrassMammoth_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CatVampire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SakuraSaurus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SakuraSaurus_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Horus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "KingBahamut000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "KingBahamut_Dragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BerryGoat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceDeer000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlackGriffon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WhiteMoth000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CuteFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FoxMage000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FoxMage_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PinkLizard000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WizardOwl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Kelpie000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Kelpie_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "NegativeOctopus000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "NegativeOctopus_Neutral000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CowPal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Yeti000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Yeti_Grass000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "VioletFairy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "HawkBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlowerRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LilyQueen000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LilyQueen_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "QueenBee000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SoldierBee000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CatBat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GrassPanda000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GrassPanda_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlameBuffalo000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ThunderDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CuteMole000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlackMetalDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GrassRabbitMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "JetDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "DreamDemon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Monkey000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Manticore000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Manticore_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "KingAlpaca000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "KingAlpaca_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PlantSlime000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PlantSlime_Flower000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "MopBaby000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "MopKing000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CatMage000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CatMage_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PinkRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ThunderBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "HerculesBeetle000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "HerculesBeetle_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SaintCentaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "NightFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CaptainPenguin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CaptainPenguin_Black000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WeaselDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WeaselDragon_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SkyDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SkyDragon_Grass000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "HadesBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "HadesBird_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RedArmorBird000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Ronin000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Ronin_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlyingManta000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlyingManta_Thunder000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlackCentaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlowerDoll000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "NaughtyCat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CuteButterfly000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "DarkScorpion000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "DarkScorpion_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ThunderDragonMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WoolFox000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LazyCatfish000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LazyCatfish_Gold000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LavaGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FlameBambi000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "MoonQueen000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "KendoFrog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "KendoFrog_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LeafPrincess000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "MushroomDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "MushroomDragon_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SmallArmadillo000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "CandleGhost000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "ScorpionMan000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WingGolem000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GuardianDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SifuDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FeatherOstrich000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "MimicDog000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "DarkAlien000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WhiteAlienDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "DarkMechaDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GhostRabbit000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "NightBlueHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WhiteShieldDragon000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlackPuppy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WhiteDeer000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "MysteryMask000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GrimGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PurpleSpider000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BlueThunderHorse000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "OctopusGirl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceNarwhal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceNarwhal_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "JellyfishFairy000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Kitsunebi_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "BerryGoat_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PinkRabbit_Grass000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Werewolf_Ice000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "AmaterasuWolf_Dark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RaijinDaughter_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WhiteTiger_Ground000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "FengyunDeeper_Electric000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Horus_Water000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SnowTigerBeastman000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "WingGolem_Oilrig000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "DarkAlien_Oilrig000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Horus_Oilrig000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Baphomet_Dark_Oilrig000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "HadesBird_Oilrig000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LizardMan_Oilrig000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GhostAnglerfish000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "GhostAnglerfish_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceWitch000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "LeafMomonga000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceCrocodile000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "StuffedShark000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "StuffedShark_Fire000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "IceSeal000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Plesiosaur000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "TropicalOstrich000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "SnowPeafowl000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "JellyfishGhost000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "PoseidonOrca000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster001000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster001_Blue000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster001_Red000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster001_Purple000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster001_Pink000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster001_Rainbow000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster002000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster003000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaMonster003_Purple000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaBoss001000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "YakushimaBoss001_Small000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RAID_YakushimaBoss001_Green000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RAID_YakushimaBoss002000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RAID_YakushimaBoss002_Hand_Left000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "RAID_YakushimaBoss002_Hand_Right000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Quest_Farmer03_SheepBall000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        },
+        "Quest_Farmer03_PinkCat000": {
+            "ItemId10": "DogCoin",
+            "Rate10": 20.0,
+            "min10": 10,
+            "Max10": 30
+        }
+    }
+}

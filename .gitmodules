@@ -1,0 +1,3 @@
+[submodule "third_party/UAssetAPI"]
+	path = third_party/UAssetAPI
+	url = https://github.com/atenfyr/UAssetAPI.git

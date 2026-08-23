@@ -1,0 +1,14 @@
+{
+    "DT_MapObjectItemProductDataTable": {
+        "MOD_ChromitePit": {
+            "Product_Id": "Chromium",
+            "RequiredWorkAmount": 600.0,
+            "AutoWorkAmountBySec": 0.0
+        },
+        "MOD_CoralumPit": {
+            "Product_Id": "ManganeseOre",
+            "RequiredWorkAmount": 1000.0,
+            "AutoWorkAmountBySec": 0.0
+        }
+    }
+}
